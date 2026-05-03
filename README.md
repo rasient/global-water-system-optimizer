@@ -1,3 +1,12 @@
+## 🧠 Part of Systems Lab
+
+This project is part of a broader exploration:
+
+→ understanding how systems behave when treated as interconnected
+
+Main repo:
+https://github.com/rasient/systems-lab
+
 # Global Water System Optimizer
 
 A Streamlit prototype that translates systems-thinking water posts into an interactive decision-support tool.
